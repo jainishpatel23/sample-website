@@ -1,0 +1,8 @@
+{
+  "name": "PhysioCare Physiotherapy Clinic",
+  "description": "Professional physiotherapy services focused on pain management, rehabilitation, mobility, and personalized patient care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
